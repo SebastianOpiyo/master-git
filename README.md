@@ -12,11 +12,14 @@ Becoming an expert in git.
 *The ten Git Commands*
 1. $ git init ~ initializes a local git repo and does introduce a .git file
 2. $ git status ~ check the status of the working tree
-3. $ git add<file(s)> ~ Add file(s) to index
+3. $ git add <file(s)> ~ Add file(s) to index
 4. $ git commit ~ Commit changes in the index
 5. $ git push ~ push the chages from the local repo to the remote repo
 6. $ git pull ~ pull the changes made. crutial in team development.
 7. $ git clone ~ copy a project into your local folder for dev 
+8. $ git remote -v ~ give the status of the branch you are working on.
+9. $ git fetch ~ used to update a branch by comparing it to the remote changes
+10. $ git rm ~ remove file or folder(use recursive option)
 *Branches*
 
 *Doing the Imports*

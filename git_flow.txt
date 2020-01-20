@@ -33,3 +33,8 @@
  - all commits on develop are completed features or patch sets
  - master is production ready
  - develop is batches ready for production
+
+
+NOTE:
+This link details github flow.
+https://guides.github.com/introduction/flow/
