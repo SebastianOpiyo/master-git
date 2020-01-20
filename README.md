@@ -1,7 +1,7 @@
-#Master-git
+*Master-git
 Becoming an expert in git.
 
-##What to Learn  
+*What to Learn  
 
     *The ten git commands
     *Branches
