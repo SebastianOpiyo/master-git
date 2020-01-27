@@ -1,4 +1,4 @@
-# USUNG GITLAB
+# USING GITLAB
 
 1. Creating an Issue
 2. Making a Merge Request
